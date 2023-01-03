@@ -8,4 +8,4 @@ def app():
     df = pd.read_csv('notebooks/step04_SeedHistory.csv')
     df.index = df.index + 1
           
-    st.dataframe(df)
+    st.dataframe(df, height=500)
