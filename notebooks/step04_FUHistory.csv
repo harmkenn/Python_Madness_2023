@@ -467,6 +467,7 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 1992,1,SE,25,1,UCLA,73,16,Robert Morris,53,49,50
 1992,1,SE,26,8,Louisville,81,9,Wake Forest,58,51,52
 1992,1,SE,27,5,DePaul,73,12,New Mexico St.,81,53,54
+1992,1,SE,28,4,Oklahoma,83,13,Lafayette,87,55,56
 1992,1,SE,29,6,Georgetown,75,11,South Florida,60,57,58
 1992,1,SE,30,3,Florida St.,78,14,Montana,68,59,60
 1992,1,SE,31,7,LSU,94,10,BYU,83,61,62
@@ -970,6 +971,7 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 2000,1,SE,25,1,Stanford,84,16,South Carolina St.,65,49,50
 2000,1,SE,26,8,North Carolina,84,9,Missouri,70,51,52
 2000,1,SE,27,5,Connecticut,75,12,Utah St.,67,53,54
+2000,1,SE,28,4,Tennessee,63,13,Lafayette,58,55,56
 2000,1,SE,29,6,Miami FL,75,11,Arkansas,71,57,58
 2000,1,SE,30,3,Ohio St.,87,14,Appalachian St.,61,59,60
 2000,1,SE,31,7,Tulsa,89,10,UNLV,62,61,62
