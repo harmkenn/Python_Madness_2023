@@ -7,16 +7,10 @@ def app():
     st.markdown('Seed Success History Since 1985')
     df = pd.read_csv('notebooks/step04_SeedHistory.csv')
     df.insert(loc= 0 , column= 'Seed', value= np.arange(1,17))
-    
-    # CSS to inject contained in a string
-    hide_dataframe_row_index = """
-            <style>
-            .row_heading.level0 {display:none}
-            .blank {display:none}
-            </style>
-            """
+              
+    #st.dataframe(df, height=600)
+    styler = df.style.hide_index()
 
-    # Inject CSS with Markdown
-    st.markdown(hide_dataframe_row_index, unsafe_allow_html=True)
-          
-    st.dataframe(df, height=600)
+    st.write(styler.to_html(), unsafe_allow_html=True)
+
+    #st.write(df.to_html(index=False), unsafe_allow_html=True)
