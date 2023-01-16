@@ -5,10 +5,10 @@ import numpy as np
 
 def app():
     # title of the app
-    py = 2022
+    py = 2023
     st.markdown('Predicting ' + str(py))
         
-    fup = pd.read_csv("data/B3_AllFandU.csv").fillna(0)
+    fup = pd.read_csv("notebooks/step04_FUstats.csv").fillna(0)
     fup = fup[fup['Game']>=1]
     fup['Round'] = fup['Round'].astype('int32')
     fup['PFSeed']=fup['AFSeed']
@@ -31,7 +31,7 @@ def app():
     RFU = LinearRegression()
     RFU.fit(MX,MUY)
     
-    BB = pd.read_csv('data/B1_FavGames.csv')
+    BB = pd.read_csv('notebooks/step04_FUHistory.csv')
     BB = BB[BB['Year']==py][BB['Game']>=1][BB['Game']<=32]
     BB['Round']=BB['Round'].astype('int32')
     BB.index = BB.Game
@@ -39,7 +39,7 @@ def app():
     BBcol = ['Year','Round','Region','Game','PFSeed','PFTeam','PFScore','PUSeed','PUTeam','PUScore']
     BB.columns = BBcol
 
-    KBBP = pd.read_csv("data/B3_KPBPIBRP.csv").fillna(0)
+    KBBP = pd.read_csv("notebooks/step04_AllStats.csv").fillna(0)
     # Predict Round 1
     BBstats = BB.merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
     BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
