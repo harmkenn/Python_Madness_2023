@@ -54,7 +54,7 @@ def app():
         BB.loc[x,'PUScore']=pus[x-1]
         BB.loc[x,'PWSeed'] = np.where(BB.loc[x,'PFScore']>=BB.loc[x,'PUScore'],BB.loc[x,'PFSeed'],BB.loc[x,'PUSeed'])
         BB.loc[x,'PWTeam'] = str(np.where(BB.loc[x,'PFScore']>=BB.loc[x,'PUScore'],BB.loc[x,'PFTeam'],BB.loc[x,'PUTeam']))
-    
+    # Predict Round 2
     for x in range(33,49):
         BB.loc[x,'Year'] = py
         BB.loc[x,'Round'] = 2
@@ -75,7 +75,7 @@ def app():
         BB.loc[x,'PUScore']=pus[x-33]
         BB.loc[x,'PWSeed'] = np.where(BB.loc[x,'PFScore']>=BB.loc[x,'PUScore'],BB.loc[x,'PFSeed'],BB.loc[x,'PUSeed'])
         BB.loc[x,'PWTeam'] = str(np.where(BB.loc[x,'PFScore']>=BB.loc[x,'PUScore'],BB.loc[x,'PFTeam'],BB.loc[x,'PUTeam']))
-        
+    # Predict Round 3    
     for x in range(49,57):
         BB.loc[x,'Year'] = py
         BB.loc[x,'Round'] = 3
@@ -96,7 +96,7 @@ def app():
         BB.loc[x,'PUScore']=pus[x-49]
         BB.loc[x,'PWSeed'] = np.where(BB.loc[x,'PFScore']>=BB.loc[x,'PUScore'],BB.loc[x,'PFSeed'],BB.loc[x,'PUSeed'])
         BB.loc[x,'PWTeam'] = str(np.where(BB.loc[x,'PFScore']>=BB.loc[x,'PUScore'],BB.loc[x,'PFTeam'],BB.loc[x,'PUTeam']))
-        
+    # Predict Round 4    
     for x in range(57,61):
         BB.loc[x,'Year'] = py
         BB.loc[x,'Round'] = 4
@@ -117,17 +117,18 @@ def app():
         BB.loc[x,'PUScore']=pus[x-57]
         BB.loc[x,'PWSeed'] = np.where(BB.loc[x,'PFScore']>=BB.loc[x,'PUScore'],BB.loc[x,'PFSeed'],BB.loc[x,'PUSeed'])
         BB.loc[x,'PWTeam'] = str(np.where(BB.loc[x,'PFScore']>=BB.loc[x,'PUScore'],BB.loc[x,'PFTeam'],BB.loc[x,'PUTeam']))
-        
+    # Predict Round 5    
     for x in range(61,63):
         BB.loc[x,'Year'] = py
         BB.loc[x,'Round'] = 5
-        BB.loc[x,'Region'] = BB.loc[(x-32)*2,'Region']
+        
         BB.loc[x,'Game'] = x
         BB.loc[x,'PFSeed'] = np.where(BB.loc[(x-32)*2-1,'PWSeed']<BB.loc[(x-32)*2,'PWSeed'],BB.loc[(x-32)*2-1,'PWSeed'],BB.loc[(x-32)*2,'PWSeed'])
         BB.loc[x,'PUSeed'] = np.where(BB.loc[(x-32)*2-1,'PWSeed']>BB.loc[(x-32)*2,'PWSeed'],BB.loc[(x-32)*2-1,'PWSeed'],BB.loc[(x-32)*2,'PWSeed'])
         BB.loc[x,'PFTeam'] = str(np.where(BB.loc[(x-32)*2-1,'PWSeed']<BB.loc[(x-32)*2,'PWSeed'],BB.loc[(x-32)*2-1,'PWTeam'],BB.loc[(x-32)*2,'PWTeam']))
         BB.loc[x,'PUTeam'] = str(np.where(BB.loc[(x-32)*2-1,'PWSeed']>BB.loc[(x-32)*2,'PWSeed'],BB.loc[(x-32)*2-1,'PWTeam'],BB.loc[(x-32)*2,'PWTeam']))
-       
+    BB.loc[61,'Region'] = 'West'
+    BB.loc[62,'Region'] = 'East'  
     BBstats = BB[BB['Round']==5].merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
     BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
     
@@ -138,7 +139,7 @@ def app():
         BB.loc[x,'PUScore']=pus[x-61]
         BB.loc[x,'PWSeed'] = np.where(BB.loc[x,'PFScore']>=BB.loc[x,'PUScore'],BB.loc[x,'PFSeed'],BB.loc[x,'PUSeed'])
         BB.loc[x,'PWTeam'] = str(np.where(BB.loc[x,'PFScore']>=BB.loc[x,'PUScore'],BB.loc[x,'PFTeam'],BB.loc[x,'PUTeam']))
-        
+    #Predict Round 6     
     for x in range(63,64):
         BB.loc[x,'Year'] = py
         BB.loc[x,'Round'] = 6
