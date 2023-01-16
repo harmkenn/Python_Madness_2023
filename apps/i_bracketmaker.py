@@ -123,10 +123,10 @@ def app():
         BB.loc[x,'Round'] = 5
         
         BB.loc[x,'Game'] = x
-        BB.loc[x,'PFSeed'] = np.where(BB.loc[(x-32)*2-1,'PWSeed']<BB.loc[(x-32)*2,'PWSeed'],BB.loc[(x-32)*2-1,'PWSeed'],BB.loc[(x-32)*2,'PWSeed'])
-        BB.loc[x,'PUSeed'] = np.where(BB.loc[(x-32)*2-1,'PWSeed']>BB.loc[(x-32)*2,'PWSeed'],BB.loc[(x-32)*2-1,'PWSeed'],BB.loc[(x-32)*2,'PWSeed'])
-        BB.loc[x,'PFTeam'] = str(np.where(BB.loc[(x-32)*2-1,'PWSeed']<BB.loc[(x-32)*2,'PWSeed'],BB.loc[(x-32)*2-1,'PWTeam'],BB.loc[(x-32)*2,'PWTeam']))
-        BB.loc[x,'PUTeam'] = str(np.where(BB.loc[(x-32)*2-1,'PWSeed']>BB.loc[(x-32)*2,'PWSeed'],BB.loc[(x-32)*2-1,'PWTeam'],BB.loc[(x-32)*2,'PWTeam']))
+        BB.loc[x,'PFSeed'] = BB.loc[x-4,'PWSeed']
+        BB.loc[x,'PUSeed'] = BB.loc[x-3,'PWSeed']
+        BB.loc[x,'PFTeam'] = BB.loc[x-4,'PWTeam']
+        BB.loc[x,'PUTeam'] = BB.loc[x-3,'PWTeam']
     BB.loc[61,'Region'] = 'West'
     BB.loc[62,'Region'] = 'East'  
     BBstats = BB[BB['Round']==5].merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
