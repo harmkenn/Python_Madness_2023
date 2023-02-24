@@ -168,5 +168,6 @@ def app():
         BB['PUSeed'] = BB['PUSeed'].astype(int)
         BB['PWSeed'] = BB['PWSeed'].astype(int)
        
+    BB = BB.apply(lambda x: x.str.replace(',', ''))
     st.dataframe(BB[BB['Game']<=63],height=500)
     
