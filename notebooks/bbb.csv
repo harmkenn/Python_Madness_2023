@@ -1,367 +1,722 @@
-tm,tm
-Abilene Christian Wildcats,Abilene Christian
-Air Force Falcons,Air Force
-Akron Zips,Akron
-Alabama A&M Bulldogs,Alabama A&M
-Alabama Crimson Tide,Alabama
-Alabama State Hornets,Alabama St.
-Albany Great Danes,Albany
-Alcorn State Braves,Alcorn St.
-American University Eagles,American
-Appalachian State Mountaineers,Appalachian St.
-Arizona State Sun Devils,Arizona St.
-Arizona Wildcats,Arizona
-Arkansas Razorbacks,Arkansas
-Arkansas State Red Wolves,Arkansas St.
-Arkansas-Pine Bluff Golden Lions,Arkansas Pine Bluff
-Army Black Knights,Army
-Auburn Tigers,Auburn
-Austin Peay Governors,Austin Peay
-BYU Cougars,BYU
-Ball State Cardinals,Ball St.
-Baylor Bears,Baylor
-Bellarmine Knights,Bellarmine
-Belmont Bruins,Belmont
-Bethune-Cookman Wildcats,Bethune Cookman
-Binghamton Bearcats,Binghamton
-Boise State Broncos,Boise St.
-Boston College Eagles,Boston College
-Boston University Terriers,Boston University
-Bowling Green Falcons,Bowling Green
-Bradley Braves,Bradley
-Brown Bears,Brown
-Bryant Bulldogs,Bryant
-Bucknell Bison,Bucknell
-Buffalo Bulls,Buffalo
-Butler Bulldogs,Butler
-Cal Poly Mustangs,Cal Poly
-Cal State Bakersfield Roadrunners,Cal St. Bakersfield
-Cal State Fullerton Titans,Cal St. Fullerton
-Cal State Northridge Matadors,Cal St. Northridge
-California Baptist Lancers,Cal Baptist
-California Golden Bears,California
-Campbell Fighting Camels,Campbell
-Canisius Golden Griffins,Canisius
-Centenary Louisiana Gentlemen,Cenentary
-Central Arkansas Bears,Central Arkansas
-Central Connecticut Blue Devils,Central Connecticut
-Central Michigan Chippewas,Central Michigan
-Charleston Cougars,Charleston
-Charleston Southern Buccaneers,Charleston Southern
-Charlotte 49ers,Charlotte
-Chattanooga Mocs,Chattanooga
-Chicago State Cougars,Chicago St.
-Cincinnati Bearcats,Cincinnati
-Clemson Tigers,Clemson
-Cleveland State Vikings,Cleveland St.
-Coastal Carolina Chanticleers,Coastal Carolina
-Colgate Raiders,Colgate
-Colorado Buffaloes,Colorado
-Colorado State Rams,Colorado St.
-Columbia Lions,Columbia
-Coppin State Eagles,Coppin St.
-Cornell Big Red,Cornell
-Creighton Bluejays,Creighton
-Dartmouth Big Green,Dartmouth
-Davidson Wildcats,Davidson
-Dayton Flyers,Dayton
-DePaul Blue Demons,DePaul
-Delaware Blue Hens,Delaware
-Delaware State Hornets,Delaware St.
-Denver Pioneers,Denver
-Detroit Mercy Titans,Detroit Mercy
-Drake Bulldogs,Drake
-Drexel Dragons,Drexel
-Duke Blue Devils,Duke
-Duquesne Dukes,Duquesne
-East Carolina Pirates,East Carolina
-East Tennessee State Buccaneers,East Tennessee St.
-Eastern Illinois Panthers,Eastern Illinois
-Eastern Kentucky Colonels,Eastern Kentucky
-Eastern Michigan Eagles,Eastern Michigan
-Eastern Washington Eagles,Eastern Washington
-Elon Phoenix,Elon
-Evansville Purple Aces,Evansville
-Fairfield Stags,Fairfield
-Fairleigh Dickinson Knights,Fairleigh Dickinson
-Florida A&M Rattlers,Florida A&M
-Florida Atlantic Owls,Florida Atlantic
-Florida Gators,Florida
-Florida Gulf Coast Eagles,Florida Gulf Coast
-Florida International Panthers,FIU
-Florida State Seminoles,Florida St.
-Fordham Rams,Fordham
-Fresno State Bulldogs,Fresno St.
-Furman Paladins,Furman
-Gardner-Webb Runnin' Bulldogs,Gardner Webb
-George Mason Patriots,George Mason
-George Washington Colonials,George Washington
-Georgetown Hoyas,Georgetown
-Georgia Bulldogs,Georgia
-Georgia Southern Eagles,Georgia Southern
-Georgia State Panthers,Georgia St.
-Georgia Tech Yellow Jackets,Georgia Tech
-Gonzaga Bulldogs,Gonzaga
-Grambling Tigers,Grambling St.
-Grand Canyon Lopes,Grand Canyon
-Green Bay Phoenix,Green Bay
-Hampton Pirates,Hampton
-Hartford Hawks,Hartford
-Harvard Crimson,Harvard
-Hawai'i Rainbow Warriors,Hawaii
-High Point Panthers,High Point
-Hofstra Pride,Hofstra
-Holy Cross Crusaders,Holy Cross
-Houston Christian Huskies,Houston Christian
-Houston Cougars,Houston
-Howard Bison,Howard
-IUPUI Jaguars,IUPUI
-Idaho State Bengals,Idaho St.
-Idaho Vandals,Idaho
-Illinois Fighting Illini,Illinois
-Illinois State Redbirds,Illinois St.
-Incarnate Word Cardinals,Incarnate Word
-Indiana Hoosiers,Indiana
-Indiana State Sycamores,Indiana St.
-Iona Gaels,Iona
-Iowa Hawkeyes,Iowa
-Iowa State Cyclones,Iowa St.
-Jackson State Tigers,Jackson St.
-Jacksonville Dolphins,Jacksonville
-Jacksonville State Gamecocks,Jacksonville St.
-James Madison Dukes,James Madison
-Kansas City Roos,UMKC
-Kansas Jayhawks,Kansas
-Kansas State Wildcats,Kansas St.
-Kennesaw State Owls,Kennesaw St.
-Kent State Golden Flashes,Kent St.
-Kentucky Wildcats,Kentucky
-LSU Tigers,LSU
-La Salle Explorers,La Salle
-Lafayette Leopards,Lafayette
-Lamar Cardinals,Lamar
-Lehigh Mountain Hawks,Lehigh
-Liberty Flames,Liberty
-Lindenwood Lions,Lindenwood
-Lipscomb Bisons,Lipscomb
-Little Rock Trojans,Little Rock
-Long Beach State Beach,Long Beach St.
-Long Island University Sharks,LIU
-Longwood Lancers,Longwood
-Louisiana Ragin' Cajuns,Louisiana
-Louisiana Tech Bulldogs,Louisiana Tech
-Louisville Cardinals,Louisville
-Loyola Chicago Ramblers,Loyola Chicago
-Loyola Maryland Greyhounds,Loyola MD
-Loyola Marymount Lions,Loyola Marymount
-Maine Black Bears,Maine
-Manhattan Jaspers,Manhattan
-Marist Red Foxes,Marist
-Marquette Golden Eagles,Marquette
-Marshall Thundering Herd,Marshall
-Maryland Terrapins,Maryland
-Maryland-Eastern Shore Hawks,Maryland Eastern Shore
-McNeese Cowboys,McNeese St.
-Memphis Tigers,Memphis
-Mercer Bears,Mercer
-Merrimack Warriors,Merrimack
-Miami (OH) Redhawks,Miami OH
-Miami Hurricanes,Miami FL
-Michigan State Spartans,Michigan St.
-Michigan Wolverines,Michigan
-Middle Tennessee Blue Raiders,Middle Tennessee
-Milwaukee Panthers,Milwaukee
-Minnesota Golden Gophers,Minnesota
-Mississippi State Bulldogs,Mississippi St.
-Mississippi Valley State Delta Devils,Mississippi Valley St.
-Missouri State Bears,Missouri St.
-Missouri Tigers,Missouri
-Monmouth Hawks,Monmouth
-Montana Grizzlies,Montana
-Montana State Bobcats,Montana St.
-Morehead State Eagles,Morehead St.
-Morgan State Bears,Morgan St.
-Mount St. Mary's Mountaineers,Mount St. Mary's
-Murray State Racers,Murray St.
-NC State Wolfpack,North Carolina St.
-NJIT Highlanders,NJIT
-Navy Midshipmen,Navy
-Nebraska Cornhuskers,Nebraska
-Nevada Wolf Pack,Nevada
-New Hampshire Wildcats,New Hampshire
-New Mexico Lobos,New Mexico
-New Mexico State Aggies,New Mexico St.
-New Orleans Privateers,New Orleans
-Niagara Purple Eagles,Niagara
-Nicholls Colonels,Nicholls St.
-Norfolk State Spartans,Norfolk St.
-North Alabama Lions,North Alabama
-North Carolina A&T Aggies,North Carolina A&T
-North Carolina Central Eagles,North Carolina Central
-North Carolina Tar Heels,North Carolina
-North Dakota Fighting Hawks,North Dakota
-North Dakota State Bison,North Dakota St.
-North Florida Ospreys,North Florida
-North Texas Mean Green,North Texas
-Northeastern Huskies,Northeastern
-Northern Arizona Lumberjacks,Northern Arizona
-Northern Colorado Bears,Northern Colorado
-Northern Illinois Huskies,Northern Illinois
-Northern Iowa Panthers,Northern Iowa
-Northern Kentucky Norse,Northern Kentucky
-Northwestern State Demons,Northwestern St.
-Northwestern Wildcats,Northwestern
-Notre Dame Fighting Irish,Notre Dame
-Oakland Golden Grizzlies,Oakland
-Ohio Bobcats,Ohio
-Ohio State Buckeyes,Ohio St.
-Oklahoma Sooners,Oklahoma
-Oklahoma State Cowboys,Oklahoma St.
-Old Dominion Monarchs,Old Dominion
-Ole Miss Rebels,Mississippi
-Omaha Mavericks,Nebraska Omaha
-Oral Roberts Golden Eagles,Oral Roberts
-Oregon Ducks,Oregon
-Oregon State Beavers,Oregon St.
-Pacific Tigers,Pacific
-Penn State Nittany Lions,Penn St.
-Pennsylvania Quakers,Penn
-Pepperdine Waves,Pepperdine
-Pittsburgh Panthers,Pittsburgh
-Portland Pilots,Portland
-Portland State Vikings,Portland St.
-Prairie View A&M Panthers,Prairie View A&M
-Presbyterian Blue Hose,Presbyterian
-Princeton Tigers,Princeton
-Providence Friars,Providence
-Purdue Boilermakers,Purdue
-Purdue Fort Wayne Mastodons,Purdue Fort Wayne
-Queens University Royals,Queens
-Quinnipiac Bobcats,Quinnipiac
-Radford Highlanders,Radford
-Rhode Island Rams,Rhode Island
-Rice Owls,Rice
-Richmond Spiders,Richmond
-Rider Broncs,Rider
-Robert Morris Colonials,Robert Morris
-Rutgers Scarlet Knights,Rutgers
-SE Louisiana Lions,Southeastern Louisiana
-SIU Edwardsville Cougars,SIU Edwardsville
-SMU Mustangs,SMU
-Sacramento State Hornets,Sacramento St.
-Sacred Heart Pioneers,Sacred Heart
-Saint Joseph's Hawks,Saint Joseph's
-Saint Louis Billikens,Saint Louis
-Saint Mary's Gaels,Saint Mary's
-Saint Peter's Peacocks,Saint Peter's
-Sam Houston Bearkats,Sam Houston St.
-Samford Bulldogs,Samford
-San Diego State Aztecs,San Diego St.
-San Diego Toreros,San Diego
-San Francisco Dons,San Francisco
-San José State Spartans,San Jose St.
-Santa Clara Broncos,Santa Clara
-Savannah State Tigers,Savannah St.
-Seattle U Redhawks,Seattle
-Seton Hall Pirates,Seton Hall
-Siena Saints,Siena
-South Alabama Jaguars,South Alabama
-South Carolina Gamecocks,South Carolina
-South Carolina State Bulldogs,South Carolina St.
-South Carolina Upstate Spartans,USC Upstate
-South Dakota Coyotes,South Dakota
-South Dakota State Jackrabbits,South Dakota St.
-South Florida Bulls,South Florida
-Southeast Missouri State Redhawks,Southeast Missouri St.
-Southern Illinois Salukis,Southern Illinois
-Southern Indiana Screaming Eagles,Southern Indiana
-Southern Jaguars,Southern
-Southern Miss Golden Eagles,Southern Miss
-Southern Utah Thunderbirds,Southern Utah
-St. Bonaventure Bonnies,St. Bonaventure
-St. Francis (PA) Red Flash,St. Francis PA
-St. Francis Brooklyn Terriers,St. Francis NY
-St. John's Red Storm,St. John's
-St. Thomas - Minnesota Tommies,St. Thomas
-Stanford Cardinal,Stanford
-Stephen F. Austin Lumberjacks,Stephen F. Austin
-Stetson Hatters,Stetson
-Stonehill Skyhawks,Stonehill
-Stony Brook Seawolves,Stony Brook
-Syracuse Orange,Syracuse
-TCU Horned Frogs,TCU
-Tarleton Texans,Tarleton St.
-Temple Owls,Temple
-Tennessee State Tigers,Tennessee St.
-Tennessee Tech Golden Eagles,Tennessee Tech
-Tennessee Volunteers,Tennessee
-Texas A&M Aggies,Texas A&M
-Texas A&M-Commerce Lions,Texas A&M Commerce
-Texas A&M-Corpus Christi Islanders,Texas A&M Corpus Chris
-Texas Longhorns,Texas
-Texas Southern Tigers,Texas Southern
-Texas State Bobcats,Texas St.
-Texas Tech Red Raiders,Texas Tech
-The Citadel Bulldogs,The Citadel
-Toledo Rockets,Toledo
-Towson Tigers,Towson
-Troy Trojans,Troy
-Tulane Green Wave,Tulane
-Tulsa Golden Hurricane,Tulsa
-UAB Blazers,UAB
-UC Davis Aggies,UC Davis
-UC Irvine Anteaters,UC Irvine
-UC Riverside Highlanders,UC Riverside
-UC San Diego Tritons,UC San Diego
-UC Santa Barbara Gauchos,UC Santa Barbara
-UCF Knights,UCF
-UCLA Bruins,UCLA
-UConn Huskies,Connecticut
-UIC Flames,Illinois Chicago
-UL Monroe Warhawks,Louisiana Monroe
-UMBC Retrievers,UMBC
-UMass Lowell River Hawks,UMass Lowell
-UMass Minutemen,Massachusetts
-UNC Asheville Bulldogs,UNC Asheville
-UNC Greensboro Spartans,UNC Greensboro
-UNC Wilmington Seahawks,UNC Wilmington
-UNLV Rebels,UNLV
-USC Trojans,USC
-UT Arlington Mavericks,UT Arlington
-UT Martin Skyhawks,Tennessee Martin
-UT Rio Grande Valley Vaqueros,UT Rio Grande Valley
-UTEP Miners,UTEP
-UTSA Roadrunners,UTSA
-Utah State Aggies,Utah St.
-Utah Tech Trailblazers,Utah Tech
-Utah Utes,Utah
-Utah Valley Wolverines,Utah Valley
-VCU Rams,VCU
-VMI Keydets,VMI
-Valparaiso Beacons,Valparaiso
-Vanderbilt Commodores,Vanderbilt
-Vermont Catamounts,Vermont
-Villanova Wildcats,Villanova
-Virginia Cavaliers,Virginia
-Virginia Tech Hokies,Virginia Tech
-Wagner Seahawks,Wagner
-Wake Forest Demon Deacons,Wake Forest
-Washington Huskies,Washington
-Washington State Cougars,Washington St.
-Weber State Wildcats,Weber St.
-West Virginia Mountaineers,West Virginia
-Western Carolina Catamounts,Western Carolina
-Western Illinois Leathernecks,Western Illinois
-Western Kentucky Hilltoppers,Western Kentucky
-Western Michigan Broncos,Western Michigan
-Wichita State Shockers,Wichita St.
-William & Mary Tribe,William & Mary
-Winston Salem Rams,Winston Salem
-Winthrop Eagles,Winthrop
-Wisconsin Badgers,Wisconsin
-Wofford Terriers,Wofford
-Wright State Raiders,Wright St.
-Wyoming Cowboys,Wyoming
-Xavier Musketeers,Xavier
-Yale Bulldogs,Yale
-Youngstown State Penguins,Youngstown St.
+tm
+Abilene Christian
+Abilene Christian Wildcats
+Air Force
+Air Force Falcons
+Akron
+Akron Zips
+Alabama
+Alabama A&M
+Alabama A&M Bulldogs
+Alabama Crimson Tide
+Alabama St.
+Alabama State Hornets
+Albany
+Albany Great Danes
+Alcorn St.
+Alcorn State Braves
+American
+American University Eagles
+Appalachian St.
+Appalachian State Mountaineers
+Arizona
+Arizona St.
+Arizona State Sun Devils
+Arizona Wildcats
+Arkansas
+Arkansas Pine Bluff
+Arkansas Razorbacks
+Arkansas St.
+Arkansas State Red Wolves
+Arkansas-Pine Bluff Golden Lions
+Army
+Army Black Knights
+Auburn
+Auburn Tigers
+Austin Peay
+Austin Peay Governors
+BYU
+BYU Cougars
+Ball St.
+Ball State Cardinals
+Baylor
+Baylor Bears
+Bellarmine
+Bellarmine Knights
+Belmont
+Belmont Bruins
+Bethune Cookman
+Bethune-Cookman Wildcats
+Binghamton
+Binghamton Bearcats
+Boise St.
+Boise State Broncos
+Boston College
+Boston College Eagles
+Boston University
+Boston University Terriers
+Bowling Green
+Bowling Green Falcons
+Bradley
+Bradley Braves
+Brown
+Brown Bears
+Bryant
+Bryant Bulldogs
+Bucknell
+Bucknell Bison
+Buffalo
+Buffalo Bulls
+Butler
+Butler Bulldogs
+Cal Baptist
+Cal Poly
+Cal Poly Mustangs
+Cal St. Bakersfield
+Cal St. Fullerton
+Cal St. Northridge
+Cal State Bakersfield Roadrunners
+Cal State Fullerton Titans
+Cal State Northridge Matadors
+California
+California Baptist Lancers
+California Golden Bears
+Campbell
+Campbell Fighting Camels
+Canisius
+Canisius Golden Griffins
+Central Arkansas
+Central Arkansas Bears
+Central Connecticut
+Central Connecticut Blue Devils
+Central Michigan
+Central Michigan Chippewas
+Charleston
+Charleston Cougars
+Charleston Southern
+Charleston Southern Buccaneers
+Charlotte
+Charlotte 49ers
+Chattanooga
+Chattanooga Mocs
+Chicago St.
+Chicago State Cougars
+Cincinnati
+Cincinnati Bearcats
+Clemson
+Clemson Tigers
+Cleveland St.
+Cleveland State Vikings
+Coastal Carolina
+Coastal Carolina Chanticleers
+Colgate
+Colgate Raiders
+Colorado
+Colorado Buffaloes
+Colorado St.
+Colorado State Rams
+Columbia
+Columbia Lions
+Connecticut
+Coppin St.
+Coppin State Eagles
+Cornell
+Cornell Big Red
+Creighton
+Creighton Bluejays
+Dartmouth
+Dartmouth Big Green
+Davidson
+Davidson Wildcats
+Dayton
+Dayton Flyers
+DePaul
+DePaul Blue Demons
+Delaware
+Delaware Blue Hens
+Delaware St.
+Delaware State Hornets
+Denver
+Denver Pioneers
+Detroit Mercy
+Detroit Mercy Titans
+Drake
+Drake Bulldogs
+Drexel
+Drexel Dragons
+Duke
+Duke Blue Devils
+Duquesne
+Duquesne Dukes
+East Carolina
+East Carolina Pirates
+East Tennessee St.
+East Tennessee State Buccaneers
+Eastern Illinois
+Eastern Illinois Panthers
+Eastern Kentucky
+Eastern Kentucky Colonels
+Eastern Michigan
+Eastern Michigan Eagles
+Eastern Washington
+Eastern Washington Eagles
+Elon
+Elon Phoenix
+Evansville
+Evansville Purple Aces
+FIU
+Fairfield
+Fairfield Stags
+Fairleigh Dickinson
+Fairleigh Dickinson Knights
+Florida
+Florida A&M
+Florida A&M Rattlers
+Florida Atlantic
+Florida Atlantic Owls
+Florida Gators
+Florida Gulf Coast
+Florida Gulf Coast Eagles
+Florida International Panthers
+Florida St.
+Florida State Seminoles
+Fordham
+Fordham Rams
+Fresno St.
+Fresno State Bulldogs
+Furman
+Furman Paladins
+Gardner Webb
+Gardner-Webb Runnin' Bulldogs
+George Mason
+George Mason Patriots
+George Washington
+George Washington Colonials
+Georgetown
+Georgetown Hoyas
+Georgia
+Georgia Bulldogs
+Georgia Southern
+Georgia Southern Eagles
+Georgia St.
+Georgia State Panthers
+Georgia Tech
+Georgia Tech Yellow Jackets
+Gonzaga
+Gonzaga Bulldogs
+Grambling St.
+Grambling Tigers
+Grand Canyon
+Grand Canyon Lopes
+Green Bay
+Green Bay Phoenix
+Hampton
+Hampton Pirates
+Hartford
+Hartford Hawks
+Harvard
+Harvard Crimson
+Hawai'i Rainbow Warriors
+Hawaii
+High Point
+High Point Panthers
+Hofstra
+Hofstra Pride
+Holy Cross
+Holy Cross Crusaders
+Houston
+Houston Christian
+Houston Christian Huskies
+Houston Cougars
+Howard
+Howard Bison
+IUPUI
+IUPUI Jaguars
+Idaho
+Idaho St.
+Idaho State Bengals
+Idaho Vandals
+Illinois
+Illinois Chicago
+Illinois Fighting Illini
+Illinois St.
+Illinois State Redbirds
+Incarnate Word
+Incarnate Word Cardinals
+Indiana
+Indiana Hoosiers
+Indiana St.
+Indiana State Sycamores
+Iona
+Iona Gaels
+Iowa
+Iowa Hawkeyes
+Iowa St.
+Iowa State Cyclones
+Jackson St.
+Jackson State Tigers
+Jacksonville
+Jacksonville Dolphins
+Jacksonville St.
+Jacksonville State Gamecocks
+James Madison
+James Madison Dukes
+Kansas
+Kansas City Roos
+Kansas Jayhawks
+Kansas St.
+Kansas State Wildcats
+Kennesaw St.
+Kennesaw State Owls
+Kent St.
+Kent State Golden Flashes
+Kentucky
+Kentucky Wildcats
+LIU
+LSU
+LSU Tigers
+La Salle
+La Salle Explorers
+Lafayette
+Lafayette Leopards
+Lamar
+Lamar Cardinals
+Lehigh
+Lehigh Mountain Hawks
+Liberty
+Liberty Flames
+Lindenwood Lions
+Lipscomb
+Lipscomb Bisons
+Little Rock
+Little Rock Trojans
+Long Beach St.
+Long Beach State Beach
+Long Island University Sharks
+Longwood
+Longwood Lancers
+Louisiana
+Louisiana Monroe
+Louisiana Ragin' Cajuns
+Louisiana Tech
+Louisiana Tech Bulldogs
+Louisville
+Louisville Cardinals
+Loyola Chicago
+Loyola Chicago Ramblers
+Loyola MD
+Loyola Maryland Greyhounds
+Loyola Marymount
+Loyola Marymount Lions
+Maine
+Maine Black Bears
+Manhattan
+Manhattan Jaspers
+Marist
+Marist Red Foxes
+Marquette
+Marquette Golden Eagles
+Marshall
+Marshall Thundering Herd
+Maryland
+Maryland Eastern Shore
+Maryland Terrapins
+Maryland-Eastern Shore Hawks
+Massachusetts
+McNeese Cowboys
+McNeese St.
+Memphis
+Memphis Tigers
+Mercer
+Mercer Bears
+Merrimack
+Merrimack Warriors
+Miami (OH) Redhawks
+Miami FL
+Miami Hurricanes
+Miami OH
+Michigan
+Michigan St.
+Michigan State Spartans
+Michigan Wolverines
+Middle Tennessee
+Middle Tennessee Blue Raiders
+Milwaukee
+Milwaukee Panthers
+Minnesota
+Minnesota Golden Gophers
+Mississippi
+Mississippi St.
+Mississippi State Bulldogs
+Mississippi Valley St.
+Mississippi Valley State Delta Devils
+Missouri
+Missouri St.
+Missouri State Bears
+Missouri Tigers
+Monmouth
+Monmouth Hawks
+Montana
+Montana Grizzlies
+Montana St.
+Montana State Bobcats
+Morehead St.
+Morehead State Eagles
+Morgan St.
+Morgan State Bears
+Mount St. Mary's
+Mount St. Mary's Mountaineers
+Murray St.
+Murray State Racers
+NC State Wolfpack
+NJIT
+NJIT Highlanders
+Navy
+Navy Midshipmen
+Nebraska
+Nebraska Cornhuskers
+Nebraska Omaha
+Nevada
+Nevada Wolf Pack
+New Hampshire
+New Hampshire Wildcats
+New Mexico
+New Mexico Lobos
+New Mexico St.
+New Mexico State Aggies
+New Orleans
+New Orleans Privateers
+Niagara
+Niagara Purple Eagles
+Nicholls Colonels
+Nicholls St.
+Norfolk St.
+Norfolk State Spartans
+North Alabama
+North Alabama Lions
+North Carolina
+North Carolina A&T
+North Carolina A&T Aggies
+North Carolina Central
+North Carolina Central Eagles
+North Carolina St.
+North Carolina Tar Heels
+North Dakota
+North Dakota Fighting Hawks
+North Dakota St.
+North Dakota State Bison
+North Florida
+North Florida Ospreys
+North Texas
+North Texas Mean Green
+Northeastern
+Northeastern Huskies
+Northern Arizona
+Northern Arizona Lumberjacks
+Northern Colorado
+Northern Colorado Bears
+Northern Illinois
+Northern Illinois Huskies
+Northern Iowa
+Northern Iowa Panthers
+Northern Kentucky
+Northern Kentucky Norse
+Northwestern
+Northwestern St.
+Northwestern State Demons
+Northwestern Wildcats
+Notre Dame
+Notre Dame Fighting Irish
+Oakland
+Oakland Golden Grizzlies
+Ohio
+Ohio Bobcats
+Ohio St.
+Ohio State Buckeyes
+Oklahoma
+Oklahoma Sooners
+Oklahoma St.
+Oklahoma State Cowboys
+Old Dominion
+Old Dominion Monarchs
+Ole Miss Rebels
+Omaha Mavericks
+Oral Roberts
+Oral Roberts Golden Eagles
+Oregon
+Oregon Ducks
+Oregon St.
+Oregon State Beavers
+Pacific
+Pacific Tigers
+Penn
+Penn St.
+Penn State Nittany Lions
+Pennsylvania Quakers
+Pepperdine
+Pepperdine Waves
+Pittsburgh
+Pittsburgh Panthers
+Portland
+Portland Pilots
+Portland St.
+Portland State Vikings
+Prairie View A&M
+Prairie View A&M Panthers
+Presbyterian
+Presbyterian Blue Hose
+Princeton
+Princeton Tigers
+Providence
+Providence Friars
+Purdue
+Purdue Boilermakers
+Purdue Fort Wayne
+Purdue Fort Wayne Mastodons
+Queens University Royals
+Quinnipiac
+Quinnipiac Bobcats
+Radford
+Radford Highlanders
+Rhode Island
+Rhode Island Rams
+Rice
+Rice Owls
+Richmond
+Richmond Spiders
+Rider
+Rider Broncs
+Robert Morris
+Robert Morris Colonials
+Rutgers
+Rutgers Scarlet Knights
+SE Louisiana Lions
+SIU Edwardsville
+SIU Edwardsville Cougars
+SMU
+SMU Mustangs
+Sacramento St.
+Sacramento State Hornets
+Sacred Heart
+Sacred Heart Pioneers
+Saint Joseph's
+Saint Joseph's Hawks
+Saint Louis
+Saint Louis Billikens
+Saint Mary's
+Saint Mary's Gaels
+Saint Peter's
+Saint Peter's Peacocks
+Sam Houston Bearkats
+Sam Houston St.
+Samford
+Samford Bulldogs
+San Diego
+San Diego St.
+San Diego State Aztecs
+San Diego Toreros
+San Francisco
+San Francisco Dons
+San Jose St.
+San José State Spartans
+Santa Clara
+Santa Clara Broncos
+Seattle
+Seattle U Redhawks
+Seton Hall
+Seton Hall Pirates
+Siena
+Siena Saints
+South Alabama
+South Alabama Jaguars
+South Carolina
+South Carolina Gamecocks
+South Carolina St.
+South Carolina State Bulldogs
+South Carolina Upstate Spartans
+South Dakota
+South Dakota Coyotes
+South Dakota St.
+South Dakota State Jackrabbits
+South Florida
+South Florida Bulls
+Southeast Missouri St.
+Southeast Missouri State Redhawks
+Southeastern Louisiana
+Southern
+Southern Illinois
+Southern Illinois Salukis
+Southern Indiana Screaming Eagles
+Southern Jaguars
+Southern Miss
+Southern Miss Golden Eagles
+Southern Utah
+Southern Utah Thunderbirds
+St. Bonaventure
+St. Bonaventure Bonnies
+St. Francis (PA) Red Flash
+St. Francis Brooklyn Terriers
+St. Francis NY
+St. Francis PA
+St. John's
+St. John's Red Storm
+St. Thomas
+St. Thomas - Minnesota Tommies
+Stanford
+Stanford Cardinal
+Stephen F. Austin
+Stephen F. Austin Lumberjacks
+Stetson
+Stetson Hatters
+Stonehill Skyhawks
+Stony Brook
+Stony Brook Seawolves
+Syracuse
+Syracuse Orange
+TCU
+TCU Horned Frogs
+Tarleton St.
+Tarleton Texans
+Temple
+Temple Owls
+Tennessee
+Tennessee Martin
+Tennessee St.
+Tennessee State Tigers
+Tennessee Tech
+Tennessee Tech Golden Eagles
+Tennessee Volunteers
+Texas
+Texas A&M
+Texas A&M Aggies
+Texas A&M Corpus Chris
+Texas A&M-Commerce Lions
+Texas A&M-Corpus Christi Islanders
+Texas Longhorns
+Texas Southern
+Texas Southern Tigers
+Texas St.
+Texas State Bobcats
+Texas Tech
+Texas Tech Red Raiders
+The Citadel
+The Citadel Bulldogs
+Toledo
+Toledo Rockets
+Towson
+Towson Tigers
+Troy
+Troy Trojans
+Tulane
+Tulane Green Wave
+Tulsa
+Tulsa Golden Hurricane
+UAB
+UAB Blazers
+UC Davis
+UC Davis Aggies
+UC Irvine
+UC Irvine Anteaters
+UC Riverside
+UC Riverside Highlanders
+UC San Diego
+UC San Diego Tritons
+UC Santa Barbara
+UC Santa Barbara Gauchos
+UCF
+UCF Knights
+UCLA
+UCLA Bruins
+UConn Huskies
+UIC Flames
+UL Monroe Warhawks
+UMBC
+UMBC Retrievers
+UMKC
+UMass Lowell
+UMass Lowell River Hawks
+UMass Minutemen
+UNC Asheville
+UNC Asheville Bulldogs
+UNC Greensboro
+UNC Greensboro Spartans
+UNC Wilmington
+UNC Wilmington Seahawks
+UNLV
+UNLV Rebels
+USC
+USC Trojans
+USC Upstate
+UT Arlington
+UT Arlington Mavericks
+UT Martin Skyhawks
+UT Rio Grande Valley
+UT Rio Grande Valley Vaqueros
+UTEP
+UTEP Miners
+UTSA
+UTSA Roadrunners
+Utah
+Utah St.
+Utah State Aggies
+Utah Tech
+Utah Tech Trailblazers
+Utah Utes
+Utah Valley
+Utah Valley Wolverines
+VCU
+VCU Rams
+VMI
+VMI Keydets
+Valparaiso
+Valparaiso Beacons
+Vanderbilt
+Vanderbilt Commodores
+Vermont
+Vermont Catamounts
+Villanova
+Villanova Wildcats
+Virginia
+Virginia Cavaliers
+Virginia Tech
+Virginia Tech Hokies
+Wagner
+Wagner Seahawks
+Wake Forest
+Wake Forest Demon Deacons
+Washington
+Washington Huskies
+Washington St.
+Washington State Cougars
+Weber St.
+Weber State Wildcats
+West Virginia
+West Virginia Mountaineers
+Western Carolina
+Western Carolina Catamounts
+Western Illinois
+Western Illinois Leathernecks
+Western Kentucky
+Western Kentucky Hilltoppers
+Western Michigan
+Western Michigan Broncos
+Wichita St.
+Wichita State Shockers
+William & Mary
+William & Mary Tribe
+Winthrop
+Winthrop Eagles
+Wisconsin
+Wisconsin Badgers
+Wofford
+Wofford Terriers
+Wright St.
+Wright State Raiders
+Wyoming
+Wyoming Cowboys
+Xavier
+Xavier Musketeers
+Yale
+Yale Bulldogs
+Youngstown St.
+Youngstown State Penguins
