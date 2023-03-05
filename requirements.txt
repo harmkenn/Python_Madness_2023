@@ -3,7 +3,6 @@ streamlit
 numpy
 pandas
 plotly
-sklearn
 scikit-learn
 pip
 bs4
