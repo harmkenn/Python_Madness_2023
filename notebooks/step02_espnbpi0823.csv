@@ -5340,7 +5340,7 @@ Year,Team,Conf,BPI(O),BPI(D)
 2023,Charlotte,C-USA,2.2,0.5
 2023,Ohio,MAC,4.0,-1.3
 2023,Eastern Washington,Big Sky,3.9,-1.3
-2023,San Francisco,WCC,2.7,0.0
+2023,San Francisco,WCC,2.7,-0.0
 2023,Loyola Marymount,WCC,2.2,0.3
 2023,Towson,CAA,2.2,0.3
 2023,Troy,Sun Belt,-0.4,2.8
@@ -5388,7 +5388,7 @@ Year,Team,Conf,BPI(O),BPI(D)
 2023,Long Beach St.,Big West,-0.3,0.3
 2023,Stetson,ASUN,4.7,-4.7
 2023,UC Davis,Big West,-0.3,0.3
-2023,Louisiana Tech,C-USA,0.0,0.0
+2023,Louisiana Tech,C-USA,-0.0,0.0
 2023,Boston College,ACC,-1.7,1.7
 2023,Rider,MAAC,1.4,-1.5
 2023,Drexel,CAA,-2.6,2.4
@@ -5433,7 +5433,7 @@ Year,Team,Conf,BPI(O),BPI(D)
 2023,Murray St.,MVC,0.4,-2.6
 2023,UTEP,C-USA,-4.5,2.3
 2023,Campbell,Big South,0.2,-2.5
-2023,Texas A&M Corpus Chris,Southland,0.0,-2.5
+2023,Texas A&M Corpus Chris,Southland,-0.0,-2.5
 2023,Minnesota,Big Ten,-2.5,-0.1
 2023,Jacksonville,ASUN,-2.7,0.1
 2023,Queens,ASUN,1.0,-3.6
