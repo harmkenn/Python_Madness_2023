@@ -17,8 +17,8 @@ def app():
     fup['PUSeed']=fup['AUSeed']
     fup['PUTeam']=fup['AUTeam']
     fup['PUScore']=fup['AUScore']
-    
-        
+    st.write(fup) 
+     
     py = st.slider('Year: ', 2008,2022)
     if py == 2020:
         st.markdown("No Bracket in 2020")
@@ -37,7 +37,7 @@ def app():
         BB = fup[fup['Year']==py]
         BB = BB.iloc[:,0:10]
         BB.index = BB.Game
-        
+         
         # Predict Round 1
         
         r1p = fup[fup['Year']==py][fup['Round']==1]
@@ -63,6 +63,10 @@ def app():
             BB.loc[x,'AWSeed'] = np.where(BB.loc[x,'AFScore']>=BB.loc[x,'AUScore'],BB.loc[x,'AFSeed'],BB.loc[x,'AUSeed'])
             BB.loc[x,'AWTeam'] = str(np.where(BB.loc[x,'AFScore']>=BB.loc[x,'AUScore'],BB.loc[x,'AFTeam'],BB.loc[x,'AUTeam']))
         KBBP = pd.read_csv("notebooks/step04_AllStats.csv").fillna(0)
+        
+        
+        
+        #Predict Round 2
         BBstats = BB[BB['Round']==2].merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
         BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
         pfs = LRF.predict(BBstats[xcol])
@@ -151,6 +155,7 @@ def app():
             BB.loc[x,'PWSeed'] = np.where(BB.loc[x,'PFScore']>=BB.loc[x,'PUScore'],BB.loc[x,'PFSeed'],BB.loc[x,'PUSeed'])
             BB.loc[x,'PWTeam'] = str(np.where(BB.loc[x,'PFScore']>=BB.loc[x,'PUScore'],BB.loc[x,'PFTeam'],BB.loc[x,'PUTeam']))
             BB.loc[x,'ESPN'] = np.where(BB.loc[x,'AWTeam']==BB.loc[x,'PWTeam'],320,0)
+         
         st.write(BB['ESPN'].sum(skipna=True))
         st.dataframe(BB,height=500)
         
