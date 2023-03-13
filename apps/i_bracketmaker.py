@@ -46,7 +46,7 @@ def app():
         
     r1p = BBstats
     
-    pfs = LRF.predict(r1p[xcol]) + np.random.rand()*10
+    pfs = LRF.predict(r1p[xcol]) + np.random.rand(32)*10
     pus = RFU.predict(r1p[xcol]) 
     
     for x in range(1,33):
@@ -68,7 +68,7 @@ def app():
     BBstats = BB[BB['Round']==2].merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
     BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
     
-    pfs = LRF.predict(BBstats[xcol]) + np.random.rand()*10
+    pfs = LRF.predict(BBstats[xcol]) + np.random.rand(16)*10
     pus = RFU.predict(BBstats[xcol])  
     for x in range(33,49):
         BB.loc[x,'PFScore']=pfs[x-33]
@@ -89,7 +89,7 @@ def app():
     BBstats = BB[BB['Round']==3].merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
     BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
     
-    pfs = LRF.predict(BBstats[xcol]) + np.random.rand()*10
+    pfs = LRF.predict(BBstats[xcol]) + np.random.rand(8)*10
     pus = RFU.predict(BBstats[xcol])  
     for x in range(49,57):
         BB.loc[x,'PFScore']=pfs[x-49]
@@ -110,7 +110,7 @@ def app():
     BBstats = BB[BB['Round']==4].merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
     BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
     
-    pfs = LRF.predict(BBstats[xcol]) + np.random.rand()*10
+    pfs = LRF.predict(BBstats[xcol]) + np.random.rand(4)*10
     pus = RFU.predict(BBstats[xcol])  
     for x in range(57,61):
         BB.loc[x,'PFScore']=pfs[x-57]
@@ -132,7 +132,7 @@ def app():
     BBstats = BB[BB['Round']==5].merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
     BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
     
-    pfs = LRF.predict(BBstats[xcol]) + np.random.rand()*10
+    pfs = LRF.predict(BBstats[xcol]) + np.random.rand(2)*10
     pus = RFU.predict(BBstats[xcol])  
     for x in range(61,63):
         BB.loc[x,'PFScore']=pfs[x-61]
