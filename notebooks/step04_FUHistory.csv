@@ -2384,10 +2384,10 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 2022,5,F4,61,2,Duke,77,8,North Carolina,81,15,19
 2022,5,F4,62,1,Kansas,81,2,Villanova,65,49,47
 2022,6,Champ,63,1,Kansas,72,8,North Carolina,69,49,19
-2023,PI,PI,-4,16,Texas A&M Corpus Chris,72,16,Southeast Missouri St.,72,18,65
-2023,PI,PI,-3,11,Mississippi St.,72,11,Pittsburgh,72,10,65
-2023,PI,PI,-2,16,Texas Southern,72,16,Fairleigh Dickinson,72,2,65
-2023,PI,PI,-1,11,Arizona St.,72,11,Nevada,72,26,65
+2023,PI,PI,-4,16,Texas A&M Corpus Chris,75,16,Southeast Missouri St.,71,18,65
+2023,PI,PI,-3,11,Mississippi St.,59,11,Pittsburgh,60,10,65
+2023,PI,PI,-2,16,Texas Southern,61,16,Fairleigh Dickinson,84,2,65
+2023,PI,PI,-1,11,Arizona St.,98,11,Nevada,73,26,65
 2023,1,NW,1,1,Alabama,72,16,Texas A&M Corpus Chris,72,1,2
 2023,1,NW,2,8,Maryland,72,9,West Virginia,72,3,4
 2023,1,NW,3,5,San Diego St.,72,12,Charleston,72,5,6
@@ -2396,7 +2396,7 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 2023,1,NW,6,3,Baylor,72,14,UC Santa Barbara,72,11,12
 2023,1,NW,7,7,Missouri,72,10,Utah St.,72,13,14
 2023,1,NW,8,2,Arizona,72,15,Princeton,72,15,16
-2023,1,SW,9,1,Purdue,72,16,Texas Southern,72,17,18
+2023,1,SW,9,1,Purdue,72,16,Fairleigh Dickinson,72,17,18
 2023,1,SW,10,8,Memphis,72,9,Florida Atlantic,72,19,20
 2023,1,SW,11,5,Duke,72,12,Oral Roberts,72,21,22
 2023,1,SW,12,4,Tennessee,72,13,Louisiana,72,23,24
@@ -2408,7 +2408,7 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 2023,1,NE,18,8,Iowa,72,9,Auburn,72,35,36
 2023,1,NE,19,5,Miami FL,72,12,Drake,72,37,38
 2023,1,NE,20,4,Indiana,72,13,Kent St.,72,39,40
-2023,1,NE,21,6,Iowa St.,72,11,Mississippi St.,72,41,42
+2023,1,NE,21,6,Iowa St.,72,11,Pittsburgh,72,41,42
 2023,1,NE,22,3,Xavier,72,14,Kennesaw St.,72,43,44
 2023,1,NE,23,7,Texas A&M,72,10,Penn St.,72,45,46
 2023,1,NE,24,2,Texas,72,15,Colgate,72,47,48
