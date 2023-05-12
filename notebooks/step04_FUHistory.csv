@@ -467,7 +467,7 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 1992,1,SE,25,1,UCLA,73,16,Robert Morris,53,49,50
 1992,1,SE,26,8,Louisville,81,9,Wake Forest,58,51,52
 1992,1,SE,27,5,DePaul,73,12,New Mexico St.,81,53,54
-1992,1,SE,28,4,Oklahoma,83,13,Lafayette,87,55,56
+1992,1,SE,28,4,Oklahoma,83,13,Louisiana,87,55,56
 1992,1,SE,29,6,Georgetown,75,11,South Florida,60,57,58
 1992,1,SE,30,3,Florida St.,78,14,Montana,68,59,60
 1992,1,SE,31,7,LSU,94,10,BYU,83,61,62
@@ -485,7 +485,7 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 1992,2,NE,43,3,Massachusetts,77,6,Syracuse,71,43,41
 1992,2,NE,44,2,Kentucky,106,10,Iowa St.,98,47,46
 1992,2,SE,45,1,UCLA,85,8,Louisville,69,49,51
-1992,2,SE,46,12,New Mexico St.,81,13,Lafayette,73,54,65
+1992,2,SE,46,12,New Mexico St.,81,13,Louisiana,73,54,65
 1992,2,SE,47,3,Florida St.,78,6,Georgetown,68,59,57
 1992,2,SE,48,2,Indiana,89,7,LSU,79,63,61
 1992,3,NW,49,4,Cincinnati,69,9,UTEP,67,7,4
@@ -594,7 +594,7 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 1994,1,SE,26,8,Providence,70,9,Alabama,76,51,52
 1994,1,SE,27,5,Wake Forest,68,12,Charleston Southern,58,53,54
 1994,1,SE,28,4,Kansas,102,13,Chattanooga,73,55,56
-1994,1,SE,29,6,Marquette,81,11,Lafayette,59,57,58
+1994,1,SE,29,6,Marquette,81,11,Louisiana,59,57,58
 1994,1,SE,30,3,Kentucky,83,14,Tennessee St.,70,59,60
 1994,1,SE,31,7,Michigan St.,84,10,Seton Hall,73,61,62
 1994,1,SE,32,2,Duke,82,15,Texas Southern,70,63,64
@@ -888,7 +888,7 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 1999,1,NW,5,6,Temple,61,11,Kent St.,54,9,10
 1999,1,NW,6,3,Cincinnati,72,14,George Mason,48,11,12
 1999,1,NW,7,7,Texas,54,10,Purdue,58,13,14
-1999,1,NW,8,2,Miami FL,75,15,Lafayette,54,15,16
+1999,1,NW,8,2,Miami FL,75,15,Louisiana,54,15,16
 1999,1,SW,9,1,Michigan St.,76,16,Mount St. Mary's,53,17,18
 1999,1,SW,10,8,Villanova,70,9,Mississippi,72,19,20
 1999,1,SW,11,5,Charlotte,81,12,Rhode Island,70,21,22
@@ -1229,7 +1229,7 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 2004,1,SE,27,5,Syracuse,80,12,BYU,75,53,54
 2004,1,SE,28,4,Maryland,86,13,UTEP,83,55,56
 2004,1,SE,29,6,Vanderbilt,71,11,Western Michigan,58,57,58
-2004,1,SE,30,3,North Carolina St.,61,14,Lafayette,52,59,60
+2004,1,SE,30,3,North Carolina St.,61,14,Louisiana,52,59,60
 2004,1,SE,31,7,DePaul,76,10,Dayton,69,61,62
 2004,1,SE,32,2,Connecticut,70,15,Vermont,53,63,64
 2004,2,NW,33,1,Kentucky,75,9,UAB,76,1,4
@@ -1275,7 +1275,7 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 2005,1,SW,9,1,Washington,88,16,Montana,77,17,18
 2005,1,SW,10,8,Pacific,79,9,Pittsburgh,71,19,20
 2005,1,SW,11,5,Georgia Tech,80,12,George Washington,68,21,22
-2005,1,SW,12,4,Louisville,68,13,Lafayette,62,23,24
+2005,1,SW,12,4,Louisville,68,13,Louisiana,62,23,24
 2005,1,SW,13,6,Texas Tech,78,11,UCLA,66,25,26
 2005,1,SW,14,3,Gonzaga,74,14,Winthrop,64,27,28
 2005,1,SW,15,7,West Virginia,63,10,Creighton,61,29,30
@@ -1873,7 +1873,7 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 2014,1,NE,19,5,Oklahoma,75,12,North Dakota St.,80,37,38
 2014,1,NE,20,4,San Diego St.,73,13,New Mexico St.,69,39,40
 2014,1,NE,21,6,Baylor,74,11,Nebraska,60,41,42
-2014,1,NE,22,3,Creighton,76,14,Lafayette,66,43,44
+2014,1,NE,22,3,Creighton,76,14,Louisiana,66,43,44
 2014,1,NE,23,7,Oregon,87,10,BYU,68,45,46
 2014,1,NE,24,2,Wisconsin,75,15,American,35,47,48
 2014,1,SE,25,1,Wichita St.,64,16,Cal Poly,37,49,50
@@ -1935,7 +1935,7 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 2015,1,SW,14,3,Baylor,56,14,Georgia St.,57,27,28
 2015,1,SW,15,7,VCU,72,10,Ohio St.,75,29,30
 2015,1,SW,16,2,Arizona,93,15,Texas Southern,72,31,32
-2015,1,NE,17,1,Villanova,93,16,Lafayette,52,33,34
+2015,1,NE,17,1,Villanova,93,16,Louisiana,52,33,34
 2015,1,NE,18,8,North Carolina St.,66,9,LSU,65,35,36
 2015,1,NE,19,5,Northern Iowa,71,12,Wyoming,54,37,38
 2015,1,NE,20,4,Louisville,57,13,UC Irvine,55,39,40
@@ -2384,3 +2384,39 @@ Year,Round,Region,Game,AFSeed,AFTeam,AFScore,AUSeed,AUTeam,AUScore,Fti,Uti
 2022,5,F4,61,2,Duke,77,8,North Carolina,81,15,19
 2022,5,F4,62,1,Kansas,81,2,Villanova,65,49,47
 2022,6,Champ,63,1,Kansas,72,8,North Carolina,69,49,19
+2023,PI,PI,-4,16,Texas A&M Corpus Chris,75,16,Southeast Missouri St.,71,18,65
+2023,PI,PI,-3,11,Mississippi St.,59,11,Pittsburgh,60,10,65
+2023,PI,PI,-2,16,Texas Southern,61,16,Fairleigh Dickinson,84,2,65
+2023,PI,PI,-1,11,Arizona St.,98,11,Nevada,73,26,65
+2023,1,NW,1,1,Alabama,72,16,Texas A&M Corpus Chris,72,1,2
+2023,1,NW,2,8,Maryland,72,9,West Virginia,72,3,4
+2023,1,NW,3,5,San Diego St.,72,12,Charleston,72,5,6
+2023,1,NW,4,4,Virginia,72,13,Furman,72,7,8
+2023,1,NW,5,6,Creighton,72,11,North Carolina St.,72,9,10
+2023,1,NW,6,3,Baylor,72,14,UC Santa Barbara,72,11,12
+2023,1,NW,7,7,Missouri,72,10,Utah St.,72,13,14
+2023,1,NW,8,2,Arizona,72,15,Princeton,72,15,16
+2023,1,SW,9,1,Purdue,72,16,Fairleigh Dickinson,72,17,18
+2023,1,SW,10,8,Memphis,72,9,Florida Atlantic,72,19,20
+2023,1,SW,11,5,Duke,72,12,Oral Roberts,72,21,22
+2023,1,SW,12,4,Tennessee,72,13,Louisiana,72,23,24
+2023,1,SW,13,6,Kentucky,72,11,Providence,72,25,26
+2023,1,SW,14,3,Kansas St.,72,14,Montana St.,72,27,28
+2023,1,SW,15,7,Michigan St.,72,10,USC,72,29,30
+2023,1,SW,16,2,Marquette,72,15,Vermont,72,31,32
+2023,1,NE,17,1,Houston,72,16,Northern Kentucky,72,33,34
+2023,1,NE,18,8,Iowa,72,9,Auburn,72,35,36
+2023,1,NE,19,5,Miami FL,72,12,Drake,72,37,38
+2023,1,NE,20,4,Indiana,72,13,Kent St.,72,39,40
+2023,1,NE,21,6,Iowa St.,72,11,Pittsburgh,72,41,42
+2023,1,NE,22,3,Xavier,72,14,Kennesaw St.,72,43,44
+2023,1,NE,23,7,Texas A&M,72,10,Penn St.,72,45,46
+2023,1,NE,24,2,Texas,72,15,Colgate,72,47,48
+2023,1,SE,25,1,Kansas,72,16,Howard,72,49,50
+2023,1,SE,26,8,Arkansas,72,9,Illinois,72,51,52
+2023,1,SE,27,5,Saint Mary's,72,12,VCU,72,53,54
+2023,1,SE,28,4,Connecticut,72,13,Iona,72,55,56
+2023,1,SE,29,6,TCU,72,11,Arizona St.,72,57,58
+2023,1,SE,30,3,Gonzaga,72,14,Grand Canyon,72,59,60
+2023,1,SE,31,7,Northwestern,72,10,Boise St.,72,61,62
+2023,1,SE,32,2,UCLA,72,15,UNC Asheville,72,63,64

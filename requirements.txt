@@ -3,9 +3,9 @@ streamlit
 numpy
 pandas
 plotly
-sklearn
 scikit-learn
 pip
 bs4
 html-table-parser-python3
 lxml
+selenium
