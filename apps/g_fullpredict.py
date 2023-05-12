@@ -8,7 +8,7 @@ def app():
     # title of the app
     st.markdown('Use Linear Regression to do a Full Bracket Prediction')
     
-    fup = pd.read_csv("data/B3_AllFandU.csv").fillna(0)
+    fup = pd.read_csv("notebooks/step04_FUHistory.csv").fillna(0)
     fup = fup[fup['Year']<=2021][fup['Game']>=1]
     fup['Round'] = fup['Round'].astype('int32')
     fup['PFSeed']=fup['AFSeed']
@@ -19,7 +19,7 @@ def app():
     fup['PUScore']=fup['AUScore']
     
         
-    py = st.slider('Year: ', 2008,2021)
+    py = st.slider('Year: ', 2008,2022)
     if py == 2020:
         st.markdown("No Bracket in 2020")
     if py != 2020:
@@ -62,7 +62,7 @@ def app():
             BB.loc[x,'PUTeam'] = str(np.where(BB.loc[(x-32)*2-1,'PWSeed']>BB.loc[(x-32)*2,'PWSeed'],BB.loc[(x-32)*2-1,'PWTeam'],BB.loc[(x-32)*2,'PWTeam']))
             BB.loc[x,'AWSeed'] = np.where(BB.loc[x,'AFScore']>=BB.loc[x,'AUScore'],BB.loc[x,'AFSeed'],BB.loc[x,'AUSeed'])
             BB.loc[x,'AWTeam'] = str(np.where(BB.loc[x,'AFScore']>=BB.loc[x,'AUScore'],BB.loc[x,'AFTeam'],BB.loc[x,'AUTeam']))
-        KBBP = pd.read_csv("data/B3_KPBPIBRP.csv").fillna(0)
+        KBBP = pd.read_csv("notebooks/step04_FUStats.csv").fillna(0)
         BBstats = BB[BB['Round']==2].merge(KBBP, left_on=['Year','PFTeam'],right_on=['Year','Team'],how='left')
         BBstats = BBstats.merge(KBBP, left_on=['Year','PUTeam'],right_on=['Year','Team'],how='left')
         pfs = LRF.predict(BBstats[xcol])
